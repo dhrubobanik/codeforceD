@@ -1,0 +1,1 @@
+{"name":"Local: Anton_and_letter","url":"f:\\cp\\Anton_and_letter.cpp","tests":[{"id":1770370128837,"input":"{a, b, c}\n","output":"3\n"},{"id":1770370155890,"input":"{b, a, b, a}\n","output":"2\n"},{"id":1770370181023,"input":"{}\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\Anton_and_letter.cpp","group":"local","local":true}

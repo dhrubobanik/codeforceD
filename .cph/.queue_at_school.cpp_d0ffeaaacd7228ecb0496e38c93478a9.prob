@@ -1,0 +1,1 @@
+{"name":"Local: queue_at_school","url":"f:\\cp\\queue_at_school.cpp","tests":[{"id":1770533844875,"input":"5 1\nBGGBG\n","output":"GBGGB\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\queue_at_school.cpp","group":"local","local":true}

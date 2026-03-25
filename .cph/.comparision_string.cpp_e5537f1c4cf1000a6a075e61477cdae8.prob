@@ -1,0 +1,1 @@
+{"name":"Local: comparision_string","url":"f:\\cp\\comparision_string.cpp","tests":[{"id":1773740115047,"input":"4\n4\n<<>>\n4\n>><<\n5\n>>>>>\n7\n<><><><\n","output":"3\n3\n6\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\comparision_string.cpp","group":"local","local":true}

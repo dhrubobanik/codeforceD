@@ -1,0 +1,1 @@
+{"name":"Local: magnets","url":"f:\\cp\\magnets.cpp","tests":[{"id":1770882513683,"input":"6\n10\n10\n10\n01\n10\n10\n","output":"3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\magnets.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: prime_matrix","url":"f:\\cp\\prime_matrix.cpp","tests":[{"id":1770540057148,"input":"3 3\n1 2 3\n5 6 1\n4 4 1\n","output":"1"},{"id":1770540122223,"input":"2 3\n4 8 8\n9 2 9\n","output":"3\n"},{"id":1770540137892,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\prime_matrix.cpp","group":"local","local":true}

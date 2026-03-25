@@ -1,0 +1,1 @@
+{"name":"Local: watermelon","url":"f:\\cp\\watermelon.cpp","tests":[{"id":1771940185483,"input":"8\n","output":"YES"},{"id":1771940353973,"input":"100\n","output":"YES"},{"id":1771940365924,"input":"100","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\watermelon.cpp","group":"local","local":true}

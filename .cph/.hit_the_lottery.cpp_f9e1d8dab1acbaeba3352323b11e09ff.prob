@@ -1,0 +1,1 @@
+{"name":"Local: hit_the_lottery","url":"f:\\cp\\hit_the_lottery.cpp","tests":[{"id":1770907419556,"input":"125\n","output":"3\n"},{"id":1770907447273,"input":"43\n","output":"5\n"},{"id":1770907470773,"input":"1000000000\n","output":"10000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\hit_the_lottery.cpp","group":"local","local":true}

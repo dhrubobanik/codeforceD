@@ -1,0 +1,1 @@
+{"name":"Local: beautiful_year","url":"f:\\cp\\beautiful_year.cpp","tests":[{"id":1770534394287,"input":"1987\n","output":"2013\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\beautiful_year.cpp","group":"local","local":true}

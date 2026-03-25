@@ -1,0 +1,1 @@
+{"name":"Local: ambitious_kid","url":"f:\\cp\\ambitious_kid.cpp","tests":[{"id":1772280867772,"input":"3\n2 -6 5\n","output":"2\n"},{"id":1772280885282,"input":"1\n-3\n","output":"3\n"},{"id":1772280907768,"input":"5\n0 -1 0 1 0\n","output":"0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\ambitious_kid.cpp","group":"local","local":true}

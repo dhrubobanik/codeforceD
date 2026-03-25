@@ -1,0 +1,1 @@
+{"name":"Local: reverse_a_permutation","url":"f:\\cp\\reverse_a_permutation.cpp","tests":[{"id":1771423257546,"input":"4\n4\n3 2 1 4\n3\n3 1 2\n4\n4 3 2 1\n2\n2 1\n","output":"4 1 2 3 \n3 2 1 \n4 3 2 1 \n2 1 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\reverse_a_permutation.cpp","group":"local","local":true}
