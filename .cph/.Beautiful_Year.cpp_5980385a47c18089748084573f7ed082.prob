@@ -1,0 +1,1 @@
+{"name":"Local: Beautiful_Year","url":"/home/dhrubo/cp/Beautiful_Year.cpp","tests":[{"id":1770363328165,"input":"1987\n","output":"2013\n"},{"id":1770363354993,"input":"2013\n","output":"2014\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dhrubo/cp/Beautiful_Year.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: word","url":"/home/dhrubo/cp/word.cpp","tests":[{"id":1770126153937,"input":"HoUse\n","output":"house"},{"id":1770126248082,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dhrubo/cp/word.cpp","group":"local","local":true}
