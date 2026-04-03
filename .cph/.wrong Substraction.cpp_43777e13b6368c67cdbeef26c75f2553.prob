@@ -1,0 +1,1 @@
+{"name":"Local: wrong Substraction","url":"/home/dhrubo/cp/wrong Substraction.cpp","tests":[{"id":1770128815987,"input":"512 4\n","output":"50"},{"id":1770128906114,"input":"1000000000 9\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/dhrubo/cp/wrong Substraction.cpp","group":"local","local":true}
